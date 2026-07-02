@@ -1,5 +1,5 @@
 <?php
-        echo "Hello Git Hub";
-        echo "My name is bbb";
-        echo "Mahanakorn";
+    echo "Hello Git Hub";
+    echo "My name is bbb";
+    echo "Mahanakorn";
 ?>
